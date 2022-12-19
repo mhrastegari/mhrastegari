@@ -6,7 +6,7 @@
  I’m currently ...
 - 🔭 working on .NET MAUI and Blazor
 - 🤔 looking for help with .NET MAUI projects
-- 🌱 learning JavaScript, ASP .NET Core, EF Core
+- 🌱 learning JavaScript and React
 - 💬 Ask me about Xamarin.Forms/MAUI, UWP/WinUI, Blazor 
 - ⚡ Fun fact: I Looooove Marvel, DC and Star Wars movies.
 <br/>
