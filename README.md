@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://media.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" width="30px" height="30px" />
+    <img src="https://camo.githubusercontent.com/4154ae7af2f541c3d80190094b4585c0ba4c57a60cfad4fa9a310f2d11247295/68747470733a2f2f6d656469612e74656e6f722e636f6d2f337a59546a5375314e394141414141692f6b656e6f62692d706f672e676966" width="30px" height="30px" />
     Hello there
-    <img src="https://media.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" width="30px" height="30px" />
+    <img src="https://camo.githubusercontent.com/4154ae7af2f541c3d80190094b4585c0ba4c57a60cfad4fa9a310f2d11247295/68747470733a2f2f6d656469612e74656e6f722e636f6d2f337a59546a5375314e394141414141692f6b656e6f62692d706f672e676966" width="30px" height="30px" />
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+Mohammad+Hossein+Rastegarinia;I'm+a+Front-End+(Mobile+and+Web)+Developer;Working+on+.NET+MAUI+and+Blazor+projects;Looking+for+help+with+.NET+MAUI+projects;Learning+JavaScript/TypeScript+and+React;Ask+me+about+Xamarin.Forms/MAUI,+UWP/WinUI,+Blazor;Fun+fact:+I+Love+Marvel,+DC+and+Star+Wars+movies)
