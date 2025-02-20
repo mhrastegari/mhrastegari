@@ -4,7 +4,7 @@
     <img src="kenobi.gif" width="30px" height="30px" />
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+Mohammad+Hossein+Rastegarinia;I'm+a+Front-End+(Mobile+and+Web)+Developer;Working+on+.NET+MAUI+and+Blazor+projects;Ask+me+about+Xamarin/MAUI,+UWP/WinUI+and+Blazor;I+Love+Marvel,+DC+and+Star+Wars+movies)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+Mohammad+Hossein+Rastegarinia;I'm+a+Front-End+(Mobile+and+Web)+Developer;Working+on+React+and+.NET+projects;Ask+me+about+React,+.NET+MAUI,+Blazor+and+UWP;I+Love+Marvel,+DC+and+Star+Wars+movies)
 
 <div align="center">
   <br>
